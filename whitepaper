@@ -1,0 +1,32 @@
+# TruthSeeker ($TRUTH) Technical Whitepaper
+**Version 1.0 | February 2026**
+
+## 1. Executive Summary
+TruthSeeker ($TRUTH) is a decentralized utility token built on the Polygon (PoS) network. The project is designed as a symbolic asset that champions transparency and decentralized integrity. By utilizing on-chain mechanisms such as transaction burns and wallet limits, $TRUTH establishes a fair-access ecosystem for long-term participants.
+
+## 2. Problem Statement
+The current Web3 landscape is often saturated with high-volatility assets lacking structural safeguards against "whale" manipulation and inflationary dilution. TruthSeeker addresses these issues through hard-coded smart contract constraints that prioritize community distribution over institutional concentration.
+
+## 3. Technical Architecture
+The $TRUTH token is an ERC-20 compatible asset deployed on the Polygon Mainnet. 
+* **Network:** Polygon (PoS)
+* **Standard:** ERC-20
+* **Security:** Ownership is verified, and the contract source code is publicly available for audit on Polygonscan.
+
+## 4. Tokenomics (The Truth Model)
+$TRUTH is designed with a deflationary bias and anti-concentration logic:
+* **Total Supply:** 1,000,000,000 $TRUTH (One Billion)
+* **Anti-Whale Mechanism:** A 2% Maximum Wallet Limit (20,000,000 $TRUTH) is enforced to ensure no single entity can dominate the circulating supply.
+* **Deflationary Burn:** 1% of every transaction is automatically sent to the Null Address (0x000...dEaD), reducing the total supply over time and rewarding holders through scarcity.
+
+## 5. Roadmap
+* **Phase 1:** Smart Contract Deployment & Verification (Completed)
+* **Phase 2:** Official Branding & Explorer Integration (In-Progress)
+* **Phase 3:** Community Growth & Educational Outreach
+* **Phase 4:** Ecosystem Utility Development
+
+## 6. Team & Transparency
+TruthSeeker is led by **Mark Lopez (FatherDarknessMaLo)**. The project maintains an open-source philosophy, with all development tracked publicly via GitHub.
+
+## 7. Disclaimer
+$TRUTH is a symbolic utility and cultural token. It is not an investment vehicle or security. Always conduct your own research (DYOR) before participating in any decentralized ecosystem.
